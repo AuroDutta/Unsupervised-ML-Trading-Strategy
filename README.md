@@ -1,7 +1,7 @@
 # Unsupervised-ML-Trading-Strategy
 This project aims to develop a trading strategy using unsupervised machine learning techniques to create and optimize a stock portfolio. By clustering stocks based on their features, we can form a diversified and optimized portfolio that aims to achieve the highest possible return for a given level of risk.
 
-Overview
+# Project Overview
 1. Download/Load SP500 Stocks Prices Data
 First, we download or load historical price data for stocks in the S&P 500 index. This data serves as the foundation for all subsequent analysis.
 
